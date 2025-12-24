@@ -1,4 +1,4 @@
-# Junior DevOps / Cloud Engineer Resume Projects
+# Junior DevOps / Cloud Engineer Projects
 
 This repository contains hands-on projects aligned with my resume and internship/lab experience. 
 All work is documented with scripts, YAMLs, diagrams, and assignments.
